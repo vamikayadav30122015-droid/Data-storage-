@@ -1,0 +1,7 @@
+{
+  "name": "AIIMS Raebareli Data Portal",
+  "description": "A secure medical data recording application for AIIMS Raebareli featuring voice-controlled record management and a performance-based bonus system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
